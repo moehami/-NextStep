@@ -1,6 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
-import styles from './coming-soon.module.scss';
+import styles from '/coming-soon.module.scss';
 
 const ComingSoonPage = () => {
   return (
